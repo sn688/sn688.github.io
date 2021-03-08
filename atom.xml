@@ -47,14 +47,15 @@
     <link href="https://sn688.github.io/posts/undefined/"/>
     <id>https://sn688.github.io/posts/undefined/</id>
     <published>2021-03-05T09:41:40.000Z</published>
-    <updated>2021-03-05T13:57:33.768Z</updated>
+    <updated>2021-03-08T08:51:33.828Z</updated>
     
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1824249807&auto=1&height=66"></iframe>]]></content>
+    <content type="html"><![CDATA[<p><span id="yellow-block">黄色色块</span><br><span id="green-block">绿色色块</span><br><span id="gray-block">灰色色块</span></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;//music.163.com/outchain/player?type=2&amp;id=1824</summary>
+    <summary type="html">&lt;p&gt;&lt;span id=&quot;yellow-block&quot;&gt;黄色色块&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;green-block&quot;&gt;绿色色块&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;gray-block&quot;&gt;灰色色块&lt;/span&gt;&lt;/p&gt;
+</summary>
       
     
     

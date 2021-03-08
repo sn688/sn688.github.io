@@ -35,7 +35,7 @@
       <link href="posts/undefined/"/>
       <url>posts/undefined/</url>
       
-        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1824249807&auto=1&height=66"></iframe>]]></content>
+        <content type="html"><![CDATA[<p><span id="yellow-block">黄色色块</span><br><span id="green-block">绿色色块</span><br><span id="gray-block">灰色色块</span></p>]]></content>
       
       
       
